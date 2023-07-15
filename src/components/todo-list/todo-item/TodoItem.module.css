@@ -1,0 +1,3 @@
+.completed {
+  @apply text-slate-400 line-through;
+}

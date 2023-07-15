@@ -1,0 +1,4 @@
+.activeFilter {
+  @apply dark:!bg-indigo-400 text-gray-800;
+  background-color: rgb(243 244 246);
+}
